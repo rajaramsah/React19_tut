@@ -1,0 +1,19 @@
+.clock-display {
+  font-size: 2rem;
+  padding: 10px 20px;
+  background: #bfe43c;
+  color: #000;
+  border-radius: 10px;
+  width: fit-content;
+  font-weight: bold;
+}
+
+select {
+ font-size: 2rem;
+  padding: 10px 10px;
+  background: #e43c3c;
+  color: #000;
+  border-radius: 10px;
+  width: fit-content;
+  font-weight: bold;
+}
